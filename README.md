@@ -35,10 +35,10 @@ SkyRisk is a **frontend web app** that helps users predict the likelihood of ext
 
 ## Demo
 
-![./Screenshot 2025-10-04 204733.png]
+[![SkyRisk Demo](./Screenshot%202025-10-04%20204733.png)](https://skyrisk.vercel.app)
 
-*(Optional: Add a live demo link if deployed.)*
 
+View live at : https://skyrisk.vercel.app
 ---
 
 ## Technologies Used
